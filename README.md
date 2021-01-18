@@ -31,7 +31,7 @@
 ---
 ---
 # Dataset 7
-![Dataset 7]https://user-images.githubusercontent.com/52682756/104862754-923dec00-5966-11eb-9916-84a2588bf681.jpeg)
+![Dataset 7](https://user-images.githubusercontent.com/52682756/104862754-923dec00-5966-11eb-9916-84a2588bf681.jpeg)
 
 
 ---
